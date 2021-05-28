@@ -1,2 +1,2 @@
 # Hippodrome
-This is a console game
+This is a console game on the course javarush.
